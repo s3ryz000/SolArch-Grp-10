@@ -2,7 +2,7 @@
 
 **ITE133 Solution Architecture · Group 10 · University of Asia and the Pacific**
 TOGAF® Standard, Architecture Development Method (ADM) Phases A–E
-Final submission, October 2026
+Submission, November 2026
 
 ## Team
 
@@ -35,15 +35,39 @@ Every file is named `Barangay San Antonio Health Department - <code> - <document
 
 Tailoring: where a template is used outside the phase folder it came from (B1, E1, E2, E3), a tailoring note in the document explains why.
 
-## Annex (`Barangay San Antonio Health Department - Annex`)
+Each phase folder also has a `Diagrams` subfolder with that phase's diagrams as standalone images (2800 px PNG), named `Barangay San Antonio Health Department - <diagram>.png`:
+
+| Phase | Diagrams |
+|---|---|
+| A | Stakeholder Map · Value Chain Diagram · Solution Concept Diagram |
+| B | Business Capability Map · Process Flow BP-1 Medical Consultation · BP-3 Medicine Logistics · BP-5 Monthly Reporting |
+| C | Logical Data Diagram · Data Lifecycle Diagram · Application Communication Diagram |
+| D | Environments and Locations Diagram |
+| E | Architecture Roadmap |
+
+## Architecture Repository (`Barangay San Antonio Health Department - Architecture Repository`)
+
+`Barangay San Antonio Health Department - Architecture Repository` (.docx, .pdf) is built on the course pack's Architecture Repository template and indexes what is stored where. The TOGAF repository areas are subfolders, each with a README:
 
 | Folder | Contents |
 |---|---|
-| A - Interview Findings | Consolidated findings from all interviews, mapped to Phases A–E (evidence base for every deliverable) |
-| B - Permit and Request Letters | Permit request to the City Health Officer (with MOU reference), letter of request for interviews, request for staff schedules |
-| C - Proof of Receipt | Signed "Received By" sheet for the interview packets |
-| D - Interview Instruments | Interview guide and final verification questions |
-| E - Briefing Materials | Project overview, TOGAF executive brief, statistics report, briefing deck for the health department |
+| Architecture Capability | Roles, team structure and architecture charter |
+| Architecture Landscape / Strategic, Segment, Capability | Strategic: out of scope (Pasig City health system); Segment: this engagement; Capability: work packages and building blocks |
+| Architecture Metamodel | The TOGAF Content Metamodel tailored to 34 entities |
+| Architecture Requirements Repository | Interview findings (Phases A–E), interview guide, final verification questions, statistics report |
+| Governance Repository | Permit and request letters, signed Received By sheet, stakeholder communications (project overview, TOGAF executive brief, briefing deck) |
+| Reference Library | Standards bodies, templates, reference models, viewpoint library, naming convention |
+| Solutions Landscape | Current systems and proposed Solution Building Blocks |
+| Standards Library | Legal, industry and organizational standards the architecture must meet |
+
+## ADM Deliverables Checklist
+
+`Barangay San Antonio Health Department - ADM Deliverables Checklist.xlsx` tracks completeness against the TOGAF templates in the course pack:
+
+- **ADM Deliverables:** every template from the Preliminary Phase to Phase H, with whether a DOCX and PDF exist, the file name and folder, and a calculated status (Complete, Partial, Covered in other document, Not produced, Out of scope)
+- **TOGAF Artifacts:** 46 catalogs, matrices, diagrams and assessments, with the document section where each is produced
+- **Diagrams:** the 12 diagram images and the figures where each is used
+- **Repository Contents:** every file in this repository
 
 ## Confidentiality
 
