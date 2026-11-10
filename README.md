@@ -23,17 +23,19 @@ Every document follows the TOGAF template from the course pack and includes a ta
 
 ## ADM deliverables
 
+Every file is named `Barangay San Antonio Health Department - <code> - <document>` (for example `Barangay San Antonio Health Department - A1 - Architecture Vision.pdf`).
+
 | Folder | Documents |
 |---|---|
-| `12 - Phase A (Architecture Vision)` | A1 Architecture Vision · A2 Statement of Architecture Work · A3 Capability Assessment · A4 Communications Plan · A5 Architecture Definition |
-| `13 - Phase B (Business Architecture)` | B1 Architecture Deliverables (Phase B) · B2 Architecture Requirements Specification |
-| `14 - Phase C (Information Systems Architecture)` | C1 Architecture Deliverables (Phase C) |
-| `15 - Phase D (Technology Architecture)` | D1 Architecture Deliverables (Phase D) |
-| `16 - Phase E (Opportunities and Solutions)` | E1 Architecture Roadmap · E2 Architecture Building Blocks · E3 Solution Building Blocks · E4 Implementation and Migration Plan |
+| `Barangay San Antonio Health Department - Phase A (Architecture Vision)` | A1 Architecture Vision · A2 Statement of Architecture Work · A3 Capability Assessment · A4 Communications Plan · A5 Architecture Definition |
+| `Barangay San Antonio Health Department - Phase B (Business Architecture)` | B1 Architecture Deliverables (Phase B) · B2 Architecture Requirements Specification |
+| `Barangay San Antonio Health Department - Phase C (Information Systems Architecture)` | C1 Architecture Deliverables (Phase C) |
+| `Barangay San Antonio Health Department - Phase D (Technology Architecture)` | D1 Architecture Deliverables (Phase D) |
+| `Barangay San Antonio Health Department - Phase E (Opportunities and Solutions)` | E1 Architecture Roadmap · E2 Architecture Building Blocks · E3 Solution Building Blocks · E4 Implementation and Migration Plan |
 
 Tailoring: where a template is used outside the phase folder it came from (B1, E1, E2, E3), a tailoring note in the document explains why.
 
-## Annex (`17 - Annex`)
+## Annex (`Barangay San Antonio Health Department - Annex`)
 
 | Folder | Contents |
 |---|---|
