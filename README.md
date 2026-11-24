@@ -45,6 +45,21 @@ Each phase folder also has a `Diagrams` subfolder with that phase's diagrams as 
 | D | Environments and Locations Diagram |
 | E | Architecture Roadmap |
 
+## Final Paper (`Barangay San Antonio Health Department - Final Paper`)
+
+`Barangay San Antonio Health Department - Final Paper` (.docx, .pdf) is the ITE133 final document (November 28, 2026), written on the course's final paper template. It summarizes the whole ADM cycle in six sections:
+
+| Section | Phases |
+|---|---|
+| 1. Executive Summary & Architecture Vision | A |
+| 2. Target Architecture Realization across Domains | B, C, D |
+| 3. Gap Analysis & Validated Solution Design | E |
+| 4. Migration Planning & Architecture Roadmap | F |
+| 5. Governance, Compliance & Value Realization | G, H |
+| 6. Reflection and Feedback | — |
+
+Phases F, G and H are written in the final paper only. They have no separate template documents.
+
 ## Architecture Repository (`Barangay San Antonio Health Department - Architecture Repository`)
 
 `Barangay San Antonio Health Department - Architecture Repository` (.docx, .pdf) is built on the course pack's Architecture Repository template and indexes what is stored where. The TOGAF repository areas are subfolders, each with a README:
