@@ -1,7 +1,7 @@
 # Barangay San Antonio Health Department Enterprise Architecture
 
 **ITE133 Solution Architecture · Group 10 · University of Asia and the Pacific**
-TOGAF® Standard, Architecture Development Method (ADM) Phases A–E
+TOGAF® Standard, Architecture Development Method (ADM) Phases A–H (Phases F–H in the final paper)
 Submission, November 2026
 
 ## Team
@@ -79,8 +79,8 @@ Phases F, G and H are written in the final paper only. They have no separate tem
 
 `Barangay San Antonio Health Department - ADM Deliverables Checklist.xlsx` tracks completeness against the TOGAF templates in the course pack:
 
-- **ADM Deliverables:** every template from the Preliminary Phase to Phase H, with whether a DOCX and PDF exist, the file name and folder, and a calculated status (Complete, Partial, Covered in other document, Not produced, Out of scope)
-- **TOGAF Artifacts:** 46 catalogs, matrices, diagrams and assessments, with the document section where each is produced
+- **ADM Deliverables:** every template from the Preliminary Phase to Phase H, plus the final paper, with whether a DOCX and PDF exist, the file name and folder, and a calculated status (Complete, Partial, Covered in other document, Not produced, Out of scope). The Phase F–H templates are covered in sections 5.1 and 5.2 of the final paper
+- **TOGAF Artifacts:** 49 catalogs, matrices, diagrams and assessments, with the document section where each is produced
 - **Diagrams:** the 12 diagram images and the figures where each is used
 - **Repository Contents:** every file in this repository
 
